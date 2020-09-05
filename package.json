@@ -38,6 +38,6 @@
   },
   "homepage": "https://github.com/DuduLourenco/appTrucks#readme",
   "dependencies": {
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.1"
   }
 }
